@@ -1,0 +1,10 @@
+# Local diagnostic output and screenshots contain hardware identifiers.
+/reports/
+/preview.png
+/report.html
+/report.json
+/battery-report.html
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
